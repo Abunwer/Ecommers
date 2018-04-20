@@ -1,1 +1,9 @@
-com/controller/HelloController.class
+com/model/Products.class
+com/model/Category.class
+com/model/CustomersSubscriptions.class
+com/model/Customers.class
+com/model/Suppliers.class
+com/model/FavSuppliers.class
+com/model/SuppliersBranches.class
+com/model/Order.class
+com/model/SuppliersUsers.class
